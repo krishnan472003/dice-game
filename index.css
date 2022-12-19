@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: beige;
+}
+section{
+    display: inline-flexbox;
+    
+}
+.dice{
+    display: inline;
+    -ms-flex-item-align: start;
+    padding-right: 3vw;
+    padding-left: 10vw;
+}
+header{
+    color:  black;
+}
+img{
+    width:25vw;
+    z-index: 200;
+}
+header{
+    display: inline-block;
+position: relative;
+left: 32vw;
+font-size: xxx-large;
+}
+button{
+    position: relative;
+    left: 32vw
+    fontsize:4vw;
+}
